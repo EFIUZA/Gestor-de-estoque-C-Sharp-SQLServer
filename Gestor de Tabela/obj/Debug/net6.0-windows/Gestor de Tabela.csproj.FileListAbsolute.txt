@@ -1,0 +1,25 @@
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\Gestor de Tabela.exe
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\Gestor de Tabela.deps.json
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\Gestor de Tabela.runtimeconfig.json
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\Gestor de Tabela.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\Gestor de Tabela.pdb
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.csproj.AssemblyReference.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor_de_Tabela.Form1.resources
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.csproj.GenerateResource.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.AssemblyInfoInputs.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.AssemblyInfo.cs
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.csproj.CoreCompileInputs.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.csproj.CopyComplete
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\refint\Gestor de Tabela.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.pdb
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor de Tabela.genruntimeconfig.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\ref\Gestor de Tabela.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Gestor de Tabela\Gestor de Tabela\obj\Debug\net6.0-windows\Gestor_de_Tabela.Form2.resources
